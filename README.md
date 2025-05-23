@@ -9,9 +9,7 @@
 📈 Actively participating in community and social projects, embracing a “lead by example” philosophy that reflects both my leadership style and my belief in tech for good.
 
 <div align="center"> 
-  <a href="https://github.com/paht2005">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paht2005&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
+  
   <a href="https://github.com/paht2005">
     <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paht2005&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
   </a>
