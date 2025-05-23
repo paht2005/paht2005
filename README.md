@@ -133,4 +133,4 @@
 
 ## 💡 Favorite Quote
 
-> "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
+> "I'm not the only dreamer"
