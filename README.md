@@ -11,7 +11,7 @@
 
 <div align="center"> 
   <a href="https://github.com/paht2005">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=paht2005&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=paht2005&show_icons=true&theme=tokyonight&hide_border=true" target = "_blank"/>
   </a>
   <a href="https://github.com/paht2005">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=paht2005&show_icons=true&theme=tokyonight&hide_border=true" />
