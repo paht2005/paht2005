@@ -14,7 +14,7 @@
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paht2005&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/paht2005">
-    <img width="400" src="" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=paht2005&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
