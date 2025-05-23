@@ -128,17 +128,6 @@
 </div>
 
 
----
-
-## 📊 GitHub Summary
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paht2005&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paht2005&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paht2005&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paht2005&theme=tokyonight&utcOffset=7" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paht2005&theme=tokyonight" />
-</p>
 
 ---
 
