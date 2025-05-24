@@ -78,7 +78,7 @@
 <div align="center"> 
   <a href="https://github.com/paht2005/AI_Multivision_App">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=AI_Multivision_App&theme=merko&" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=AI_Multivision_App&theme=merko" />
   </a>
   
   <a href="https://github.com/paht2005/AI_Voice_Assistant">
