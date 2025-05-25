@@ -83,35 +83,35 @@
   
   <a href="https://github.com/paht2005/AI_Voice_Assistant">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=AI_Voice_Assistant&theme=merko" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=AI_Voice_Assistant&theme=merko" />
   </a>
   <a href="https://github.com/paht2005/pharmacy-ai-suite">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=pharmacy-ai-suite&theme=gruvbox" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=pharmacy-ai-suite&theme=gruvbox" />
   </a>
   <a href="https://github.com/paht2005/simple-portfolio-website-with-flask">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=simple-portfolio-website-with-flask&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=simple-portfolio-website-with-flask&theme=dracula" />
   </a>
   <a href="https://github.com/paht2005/PythonGame_Rock-Scissors-Paper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=PythonGame_Rock-Scissors-Paper&theme=dark" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=PythonGame_Rock-Scissors-Paper&theme=dark" />
   </a>
   <a href="https://github.com/paht2005/Loan-Approval-Prediction-CourseProject">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=Loan-Approval-Prediction-CourseProject&theme=radical" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Loan-Approval-Prediction-CourseProject&theme=radical" />
   </a>
   <a href="https://github.com/paht2005/Realtime-Stock-Analysis-Tool-for-Vietnam-Market">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=Realtime-Stock-Analysis-Tool-for-Vietnam-Market&theme=cobalt" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Realtime-Stock-Analysis-Tool-for-Vietnam-Market&theme=cobalt" />
   </a>
   
   <a href="https://github.com/paht2005/AI-Powered-Resume-Screener-Web-App">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=AI-Powered-Resume-Screener-Web-App&theme=synthwave" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=AI-Powered-Resume-Screener-Web-App&theme=synthwave" />
   </a>
   <a href="https://github.com/paht2005/Vietnamese-Sentiment-Classifier-WebApp-with-Streamlit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=Vietnamese-Sentiment-Classifier-WebApp-with-Streamlit&theme=highcontrast" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Vietnamese-Sentiment-Classifier-WebApp-with-Streamlit&theme=highcontrast" />
   </a>
   <a href="https://github.com/paht2005/some_Object-Oriented_miniProjects">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=some_Object-Oriented_miniProjects&theme=gruvbox" />
   </a>
   <a href="https://github.com/paht2005/Python-GUI_miniProjects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=Python-GUI_miniProjects&theme=dark" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Python-GUI_miniProjects&theme=dark" />
   </a>z
   <a href="https://github.com/paht2005/Data-Visualizer-App-linechart">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=Data-Visualizer-App-linechart&theme=radical" />
