@@ -108,26 +108,26 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Vietnamese-Sentiment-Classifier-WebApp-with-Streamlit&theme=highcontrast" />
   </a>
   <a href="https://github.com/paht2005/some_Object-Oriented_miniProjects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=some_Object-Oriented_miniProjects&theme=gruvbox" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=some_Object-Oriented_miniProjects&theme=gruvbox" />
   </a>
   <a href="https://github.com/paht2005/Python-GUI_miniProjects">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Python-GUI_miniProjects&theme=dark" />
   </a>z
   <a href="https://github.com/paht2005/Data-Visualizer-App-linechart">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=Data-Visualizer-App-linechart&theme=radical" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Data-Visualizer-App-linechart&theme=radical" />
   </a>
   <a href="https://github.com/paht2005/Personal-Budget-Planner-App">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=Personal-Budget-Planner-App&theme=merko" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Personal-Budget-Planner-App&theme=merko" />
   </a>
   
   <a href="https://github.com/paht2005/mini-AI-Agent-Chatbot-with-Flet">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=mini-AI-Agent-Chatbot-with-Flet&theme=onedark" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=mini-AI-Agent-Chatbot-with-Flet&theme=onedark" />
   </a>
   <a href="https://github.com/paht2005/Markdown-to-HTML-Converter-Tools">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=Markdown-to-HTML-Converter-Tools&theme=cobalt" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Markdown-to-HTML-Converter-Tools&theme=cobalt" />
   </a>
   <a href="https://github.com/paht2005/-Titanic-Survival-Prediction-Using-Machine-Learning">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paht2005&repo=-Titanic-Survival-Prediction-Using-Machine-Learning&theme=onedark" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=-Titanic-Survival-Prediction-Using-Machine-Learning&theme=onedark" />
   </a>
 </div>
 
