@@ -89,9 +89,7 @@
   <a href="https://github.com/paht2005/pharmacy-ai-suite">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=pharmacy-ai-suite&theme=gruvbox" />
   </a>
-  <a href="https://github.com/paht2005/simple-portfolio-website-with-flask">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=simple-portfolio-website-with-flask&theme=dracula" />
-  </a>
+  
   <a href="https://github.com/paht2005/PythonGame_Rock-Scissors-Paper">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=PythonGame_Rock-Scissors-Paper&theme=dark" />
   </a>
@@ -102,12 +100,7 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Realtime-Stock-Analysis-Tool-for-Vietnam-Market&theme=cobalt" />
   </a>
   
-  <a href="https://github.com/paht2005/AI-Powered-Resume-Screener-Web-App">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=AI-Powered-Resume-Screener-Web-App&theme=synthwave" />
-  </a>
-  <a href="https://github.com/paht2005/Vietnamese-Sentiment-Classifier-WebApp-with-Streamlit">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Vietnamese-Sentiment-Classifier-WebApp-with-Streamlit&theme=highcontrast" />
-  </a>
+  
   <a href="https://github.com/paht2005/some_Object-Oriented_miniProjects">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=some_Object-Oriented_miniProjects&theme=gruvbox" />
   </a>
