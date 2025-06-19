@@ -77,9 +77,9 @@
 ## 🔥 Projects
 
 <div align="center"> 
-  <a href="https://github.com/paht2005/WebRAG_Chatbot">
+  <a href="https://github.com/paht2005/WebRAG_GenAI_Chatbot">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=WebRAG_Chatbot&theme=merko" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=WebRAG_GenAI_Chatbot&theme=merko" />
   </a>
   <a href="https://github.com/paht2005/AI_Multivision_App">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
