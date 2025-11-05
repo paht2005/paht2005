@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a sophomore in Computer Science at the University of Information Technology, Ho Chi Minh City.
+🎓 I'm a student in Computer Science at the University of Information Technology, Ho Chi Minh City.
 
 🚀 A fast learner with passionate about Data Science, Machine Learning, and Financial Analysis.
 
