@@ -8,8 +8,8 @@
 
 📈 Actively participating in community and social projects, embracing a “lead by example” philosophy that reflects both my leadership style and my belief in tech for good.
 <p align="center">
-  <img height="197" 
-       src="https://github-readme-stats.vercel.app/api?username=paht2005&show_icons=true&hide_border=true&theme=dracula&count_private=true" 
+  <img height="197"
+       src="https://github-readme-stats.vercel.app/api?username=paht2005&show_icons=true&hide_border=true&theme=dracula&count_private=true"
        alt="GitHub Stats" />
   <img height="197" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=paht2005&size_weight=0.1&count_weight=0.9&hide_border=true&layout=compact&theme=dracula&langs_count=10" 
