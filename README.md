@@ -76,10 +76,19 @@
 ## 🔥 Projects
 
 <div align="center"> 
+
+  
+  <a href="https://github.com/paht2005/IE403.Q11_Hate-Speech-Detection-and-Highlighting-for-Vietnamese-Project">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=IE403.Q11_Hate-Speech-Detection-and-Highlighting-for-Vietnamese-Project&theme=merko" />
+  </a>
   <a href="https://github.com/paht2005/CS221.Q12-Vietnamese-Named-Entity-Recognition">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=CS221.Q12-Vietnamese-Named-Entity-Recognition
-&theme=merko" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=CS221.Q12-Vietnamese-Named-Entity-Recognition&theme=merko" />
+  </a>
+  <a href="https://github.com/paht2005/CS231.Q11_Face-Mask-Classification-Project ">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=CS231.Q11_Face-Mask-Classification-Project &theme=merko" />
   </a>
   <a href="https://github.com/paht2005/WebRAG_GenAI_Chatbot">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -114,7 +123,7 @@
   </a>
   <a href="https://github.com/paht2005/Python-GUI_miniProjects">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Python-GUI_miniProjects&theme=dark" />
-  </a>z
+  </a>
   
   
   <a href="https://github.com/paht2005/mini-AI-Agent-Chatbot-with-Flet">
