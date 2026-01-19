@@ -86,9 +86,9 @@
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=CS221.Q12-Vietnamese-Named-Entity-Recognition&theme=merko" />
   </a>
-  <a href="https://github.com/paht2005/CS231.Q11_Face-Mask-Classification-Project ">
+  <a href="https://github.com/paht2005/CS231.Q11_Face-Mask-Classification-Project">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=CS231.Q11_Face-Mask-Classification-Project &theme=merko" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=CS231.Q11_Face-Mask-Classification-Project&theme=merko" />
   </a>
   <a href="https://github.com/paht2005/WebRAG_GenAI_Chatbot">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
