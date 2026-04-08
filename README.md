@@ -22,7 +22,7 @@
 
 Driven Computer Science undergraduate at **UIT - VNU-HCM** with a deep passion for **Data Science**, **NLP**, and **AI-powered analytics**. I thrive at the intersection of rigorous technical research and real-world impact — architecting ML pipelines, fine-tuning large language models, and translating complex data into actionable strategies.
 
-Beyond the codebase, I champion community empowerment — mentoring 30+ aspiring data professionals, volunteering extensively across educational and charity initiatives, and leading class operations for 50+ students. Currently serving as **AI Engineer Intern at KMS Technology** while pursuing multiple research and community-driven projects.
+Beyond the codebase, I champion community empowerment - mentoring 30+ aspiring data professionals, volunteering extensively across educational and charity initiatives, and leading class operations for 50+ students. Currently serving as **AI Engineer Intern at KMS Technology** while pursuing multiple research and community-driven projects.
 
 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Class of 2027 &nbsp;|&nbsp; Open to Collaboration
 
