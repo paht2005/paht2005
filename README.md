@@ -20,11 +20,27 @@
 
 ## 🧠 About Me
 
-Driven Computer Science undergraduate at **UIT — VNU-HCM** (**GPA 8.58/10**, Dean's List Top 15%) with a deep passion for **Data Science**, **NLP**, and **AI-powered analytics**. I thrive at the intersection of rigorous technical research and real-world impact — architecting ML pipelines, fine-tuning large language models, and translating complex data into actionable strategies.
+Driven Computer Science undergraduate at **UIT — VNU-HCM** (**GPA 8.68/10**, Top 15%) with a deep passion for **Data Science**, **NLP**, and **AI-powered analytics**. I thrive at the intersection of rigorous technical research and real-world impact — architecting ML pipelines, fine-tuning large language models, and translating complex data into actionable strategies.
 
 Beyond the codebase, I champion community empowerment — mentoring 30+ aspiring data professionals, volunteering extensively across educational and charity initiatives, and leading class operations for 50+ students. Currently serving as **AI Engineer Intern at KMS Technology** while pursuing multiple research and community-driven projects.
 
-📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp; 🎓 Class of 2027 &nbsp;|&nbsp; 🔓 Open to Collaboration
+Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Class of 2027 &nbsp;|&nbsp; Open to Collaboration
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-bqhz.vercel.app/api?username=paht2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&ring_color=667eea" width="49%" />
+<img src="https://github-readme-stats-bqhz.vercel.app/api/top-langs/?username=paht2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9" width="49%" />
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paht2005&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=764BA2&currStreakLabel=667EEA&sideLabels=C9D1D9&dates=555555)](https://git.io/streak-stats)
+
+</div>
+
 
 ---
 
@@ -183,65 +199,65 @@ Beyond the codebase, I champion community empowerment — mentoring 30+ aspiring
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| 🧠 Deep Learning Specialization | DeepLearning.AI (Andrew Ng) | 2025 |
-| 🚀 Astronomer Certification for Apache Airflow 3 | Astronomer | 2025 |
-| 📊 BCG X Data Science Job Simulation | Boston Consulting Group | 2025 |
-| 💡 Problem Solving (Intermediate) | HackerRank | 2025 |
-| 🤖 Machine Learning Specialization | Stanford / DeepLearning.AI (Andrew Ng) | 2024 |
-| 🗃️ SQL (Advanced) | HackerRank | 2024 |
-| 📈 Google Advanced Data Analytics | Google | 2024 |
-| 📋 Google Data Analytics Professional | Google | 2024 |
+| Deep Learning Specialization | DeepLearning.AI (Andrew Ng) | 2025 |
+| Astronomer Certification for Apache Airflow 3 | Astronomer | 2025 |
+| BCG X Data Science Job Simulation | Boston Consulting Group | 2025 |
+| Problem Solving (Intermediate) | HackerRank | 2025 |
+| Machine Learning Specialization | Stanford / DeepLearning.AI (Andrew Ng) | 2024 |
+| SQL (Advanced) | HackerRank | 2024 |
+| Google Advanced Data Analytics | Google | 2024 |
+| Google Data Analytics Professional | Google | 2024 |
 
 ---
 
 ## 🏆 Honors & Awards
 
 <details>
-<summary><b>📌 2026 — Scholarships & Recognition (click to expand)</b></summary>
+<summary><b>2026 — Scholarships & Recognition (click to expand)</b></summary>
 <br/>
 
 | Award | Grantor | Value |
 |-------|---------|-------|
-| 🎓 Digiworld "Uom Mam Xanh" Full Scholarship | Digiworld Corp & VTI Academy | 41,700,000 VND |
-| 🇩🇪 Hessen Scholarship for Vietnamese Students | Ministry of Science — State of Hesse, Germany | 216 EUR |
-| 🤖 AI Application & Data Analysis Course Scholarship | CompaClass (Duc Nguyen) | 4,998,000 VND |
-| 🏦 BIDV & CT Group Academic Support Scholarship | BIDV & CT Group | — |
-| ⭐ Outstanding Class Leader 2025 | UIT Leader Club | — |
+| Digiworld "Uom Mam Xanh" Full Scholarship | Digiworld Corp & VTI Academy | 41,700,000 VND |
+| Hessen Scholarship for Vietnamese Students | Ministry of Science — State of Hesse, Germany | 216 EUR |
+| AI Application & Data Analysis Course Scholarship | CompaClass (Duc Nguyen) | 4,998,000 VND |
+| BIDV & CT Group Academic Support Scholarship | BIDV & CT Group | — |
+| Outstanding Class Leader 2025 | UIT Leader Club | — |
 
 </details>
 
 <details>
-<summary><b>📌 2025 — Scholarships & Distinctions (click to expand)</b></summary>
+<summary><b>2025 — Scholarships & Distinctions (click to expand)</b></summary>
 <br/>
 
 | Award | Grantor | Value |
 |-------|---------|-------|
-| 🍺 Heineken Scholarship 2025 | Heineken Vietnam | 5,000,000 VND |
-| 🎖️ Outstanding Contribution — Project Manager | Grab Fan Tháng 9 Media | — |
-| 🌱 "Vươn Lên" Scholarship | Dong Du Education Promotion Fund | 9,000,000 VND |
-| 💼 KMS Back2School Scholarship | KMS Technology | 5,000,000 VND |
-| ✈️ "Chắp cánh ước mơ" Scholarship | VNU-HCM Dormitory Center | 2,500,000 VND |
-| 🏅 Very Good Student (Sem 2, 2024–2025) | UIT — GPA 8.8, Training 100/100 | — |
-| 💎 Coherent Vietnam Scholarship | Coherent Vietnam | 5,000,000 VND |
-| 🤝 "Chiến Binh 0 Đồng Tử Tế" Volunteer Honoree | Trạm Phóng Tương Lai S4 | — |
-| 🏅 Very Good Student (Sem 1, 2024–2025) | UIT — GPA 8.5, Training 100/100 | — |
+| Heineken Scholarship 2025 | Heineken Vietnam | 5,000,000 VND |
+| Outstanding Contribution — Project Manager | Grab Fan Tháng 9 Media | — |
+| "Vươn Lên" Scholarship | Dong Du Education Promotion Fund | 9,000,000 VND |
+| KMS Back2School Scholarship | KMS Technology | 5,000,000 VND |
+| "Chắp cánh ước mơ" Scholarship | VNU-HCM Dormitory Center | 2,500,000 VND |
+| Very Good Student (Sem 2, 2024–2025) | UIT — GPA 8.8, Training 100/100 | — |
+| Coherent Vietnam Scholarship | Coherent Vietnam | 5,000,000 VND |
+| "Chiến Binh 0 Đồng Tử Tế" Volunteer Honoree | Trạm Phóng Tương Lai S4 | — |
+| Very Good Student (Sem 1, 2024–2025) | UIT — GPA 8.5, Training 100/100 | — |
 
 </details>
 
 <details>
-<summary><b>📌 2024 & Earlier (click to expand)</b></summary>
+<summary><b>2024 & Earlier (click to expand)</b></summary>
 <br/>
 
 | Award | Grantor |
 |-------|---------|
-| ⭐ Outstanding Class Leader 2024 | UIT Leader Club |
-| 🎓 UIT Academic Excellence Scholarship (Sem 1, 23–24) | UIT — Top 8% |
-| 🏆 Top 24 Finalist — Student Leader Competition | UIT Students' Association |
-| 🤖 Top 50 — AI City Challenge 2024 (Fisheye Detection) | Global (500+ teams) |
-| 🌟 Excellent Student (Sem 1, 23–24) — GPA 9.52/10 | UIT |
-| 🌍 Quarter-Finalist — ClimateScience Olympiad 2023 | Global Top 15% |
-| 🚀 Top 100 — Blue Ocean Student Entrepreneurship | Global (5,200+ participants) |
-| 🔢 Third Prize — Provincial Math Olympiad | Khanh Hoa Province |
+| Outstanding Class Leader 2024 | UIT Leader Club |
+| UIT Academic Excellence Scholarship (Sem 1, 23–24) | UIT — Top 8% |
+| Top 24 Finalist — Student Leader Competition | UIT Students' Association |
+| Top 50 — AI City Challenge 2024 (Fisheye Detection) | Global (500+ teams) |
+| Excellent Student (Sem 1, 23–24) — GPA 9.52/10 | UIT |
+| Quarter-Finalist — ClimateScience Olympiad 2023 | Global Top 15% |
+| Top 100 — Blue Ocean Student Entrepreneurship | Global (5,200+ participants) |
+| Third Prize — Provincial Math Olympiad | Khanh Hoa Province |
 
 </details>
 
@@ -256,20 +272,6 @@ Beyond the codebase, I champion community empowerment — mentoring 30+ aspiring
 - **Active Volunteer** with Dong Du Study Encouragement Fund — field visits and scholarship distribution for underprivileged students
 - **Volunteer Builder** — constructing playgrounds, classrooms, and sanitation for 400+ students in remote Vietnam
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-bqhz.vercel.app/api?username=paht2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&ring_color=667eea" width="49%" />
-<img src="https://github-readme-stats-bqhz.vercel.app/api/top-langs/?username=paht2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9" width="49%" />
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paht2005&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=764BA2&currStreakLabel=667EEA&sideLabels=C9D1D9&dates=555555)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -291,9 +293,9 @@ I write about AI, data science, and career growth on my [portfolio blog](https:/
 ## 🎯 What Drives Me
 
 ```
-🔬 Short-term  →  Apply advanced analytics & ML to solve real-world problems
-🚀 Long-term   →  Lead data-driven teams building impactful AI solutions
-🤝 Always      →  Give back through mentoring, volunteering & community building
+Short-term  →  Apply advanced analytics & ML to solve real-world problems
+Long-term   →  Lead data-driven teams building impactful AI solutions
+Always      →  Give back through mentoring, volunteering & community building
 ```
 
 ---
