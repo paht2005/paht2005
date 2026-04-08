@@ -42,97 +42,97 @@ Beyond the codebase, I champion community empowerment — mentoring 30+ aspiring
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+> Highlights from my portfolio — spanning NLP, Computer Vision, GenAI, Data Analytics, and more. See the full list on my [portfolio site](https://nguyen-cong-phat-portfolio.vercel.app/#projects).
 
-### 🎭 Face Mask Classification
-**Leader** · CS231 – Intro to Computer Vision
-- Orchestrated comparative study between traditional ML (HOG/LBP + SVM) and CNN-based pipelines
-- Achieved **98.99% accuracy** with **>25 FPS** real-time inference via Flask + OpenCV
+<div align="center">
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/paht2005/CS231.Q11_Face-Mask-Classification-Project)
+#### 🧪 NLP & Explainable AI
 
-</td>
-<td width="50%">
+<a href="https://github.com/paht2005/IE403.Q11_Hate-Speech-Detection-and-Highlighting-for-Vietnamese-Project">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=IE403.Q11_Hate-Speech-Detection-and-Highlighting-for-Vietnamese-Project&theme=merko" />
+</a>
+<a href="https://github.com/paht2005/CS221.Q12-Vietnamese-Named-Entity-Recognition">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=CS221.Q12-Vietnamese-Named-Entity-Recognition&theme=merko" />
+</a>
 
-### 🗣️ Vietnamese Hate Speech Detection (HARE)
-**Leader** · IE403 – Social Media Mining
-- Pioneered rationale-based explainable detection using Qwen2.5-3B + QLoRA (4-bit) with Chain-of-Thought prompting
-- Delivered **+17% F1 improvement** on political hate speech; Full-stack FastAPI + React app
+</div>
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/paht2005/IE403.Q11_Hate-Speech-Detection-and-Highlighting-for-Vietnamese-Project)
+- **HARE** — Pioneered rationale-based Vietnamese hate speech detection using Qwen2.5-3B + QLoRA with Chain-of-Thought prompting · **+17% F1** on political hate speech · Full-stack FastAPI + React
+- **Vietnamese NER** — Engineered end-to-end sequence labeling (HMM, CRF, BiLSTM-CRF) on VLSP 2016 · CRF: **Acc 0.9904 · Span F1 0.9191** · Interactive Flask demo
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 📝 Vietnamese Named Entity Recognition
-**Leader** · CS221 – NLP
-- Engineered end-to-end NER system implementing HMM, CRF, BiLSTM-CRF on VLSP 2016 dataset
-- CRF model: **Acc 0.9904** · **Span F1 0.9191** · Interactive Flask demo for entity highlighting
+#### 👁️ Computer Vision & Classification
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/paht2005/CS221.Q12-Vietnamese-Named-Entity-Recognition)
+<a href="https://github.com/paht2005/CS231.Q11_Face-Mask-Classification-Project">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=CS231.Q11_Face-Mask-Classification-Project&theme=merko" />
+</a>
+<a href="https://github.com/paht2005/AI_Multivision_App">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=AI_Multivision_App&theme=merko" />
+</a>
 
-</td>
-<td width="50%">
+</div>
 
-### 🏦 VPBank Customer Analysis
-**Solo Project** · Data Analytics
-- Dissected 113K+ customer transactions via Power BI dashboards
-- Identified "Gold" segment contributing 78% of total assets; Proposed campaigns targeting +20% quarterly revenue
+- **Face Mask Classification** — Orchestrated comparative study (HOG/LBP + SVM vs. CNN) · **98.99% accuracy** with **>25 FPS** real-time inference via Flask + OpenCV
+- **AI Multivision App** — Multi-modal computer vision application leveraging state-of-the-art models
 
-[![Files](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Wu4OB2PU1544Qw_SLIzFEuObL8wjFDl8)
+<div align="center">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+#### 🤖 GenAI & LLM Applications
 
-### 💬 FPT Play Sentiment Analysis
-**Solo Project** · NLP + Dashboard
-- Constructed end-to-end pipeline: MongoDB → MySQL → phoBERT classification
-- Attained **92% F1-score**; Built interactive dashboard visualizing customer sentiment
+<a href="https://github.com/paht2005/WebRAG_GenAI_Chatbot">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=WebRAG_GenAI_Chatbot&theme=merko" />
+</a>
+<a href="https://github.com/paht2005/AI_Voice_Assistant">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=AI_Voice_Assistant&theme=merko" />
+</a>
+<a href="https://github.com/paht2005/pharmacy-ai-suite">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=pharmacy-ai-suite&theme=gruvbox" />
+</a>
+<a href="https://github.com/paht2005/mini-AI-Agent-Chatbot-with-Flet">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=mini-AI-Agent-Chatbot-with-Flet&theme=onedark" />
+</a>
 
-[![Files](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1iW_H_VAHXhyQ56o1nXWnGkfsw_JGJq8m)
+</div>
 
-</td>
-<td width="50%">
+- **WebRAG GenAI Chatbot** — Architected RAG-based conversational AI with web retrieval capabilities
+- **AI Voice Assistant** — Built voice-interactive AI assistant integrating speech recognition and LLM reasoning
+- **Pharmacy AI Suite** — Developed domain-specific AI tools for pharmaceutical applications
+- **Mini AI Agent Chatbot** — Crafted lightweight AI agent chatbot with Flet UI framework
 
-### 📈 Loan Approval Prediction
-**Feature Engineering & Model Dev Lead**
-- Spearheaded EDA and feature engineering via correlation-based elimination
-- Optimized XGBoost, LightGBM, CatBoost ensemble: **F1 0.8939** · **AUC 0.9631**
+<div align="center">
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/paht2005/CS116_Loan-Approval-Prediction-CourseProject)
+#### 📊 Data Science & Analytics
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<a href="https://github.com/paht2005/Loan-Approval-Prediction-CourseProject">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Loan-Approval-Prediction-CourseProject&theme=radical" />
+</a>
+<a href="https://github.com/paht2005/Realtime-Stock-Analysis-Tool-for-Vietnam-Market">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Realtime-Stock-Analysis-Tool-for-Vietnam-Market&theme=cobalt" />
+</a>
 
-### 📊 Vietnam Stock Analysis Tool
-**Solo Project** · Real-time Dashboard
-- Developed Streamlit dashboard analyzing capital flow and technical indicators via vnstock API
-- Visualized inflow/outflow trends, bid-ask ratios, and capital movement heatmaps
+</div>
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/paht2005/Realtime-Stock-Analysis-Tool-for-Vietnam-Market)
+- **Loan Approval Prediction** — Spearheaded EDA & feature engineering; Optimized XGBoost/LightGBM/CatBoost ensemble: **F1 0.8939 · AUC 0.9631**
+- **Vietnam Stock Analysis** — Developed real-time Streamlit dashboard analyzing capital flow & technical indicators via vnstock API
+- **VPBank Customer Analysis** — Dissected 113K+ transactions; Identified "Gold" segment (78% of assets) · [Google Drive](https://drive.google.com/drive/folders/1Wu4OB2PU1544Qw_SLIzFEuObL8wjFDl8)
+- **FPT Play Sentiment Analysis** — Constructed MongoDB → MySQL → phoBERT pipeline · **92% F1-score** · [Google Drive](https://drive.google.com/drive/folders/1iW_H_VAHXhyQ56o1nXWnGkfsw_JGJq8m)
 
-</td>
-<td width="50%">
+<div align="center">
 
-### 🖼️ My Gallery
-**Solo Project** · Creative Web Dev
-- Crafted minimalist online photography gallery with responsive layout and smooth animations
-- Deployed on Vercel for personal creative expression
+#### 🎮 Fun & Learning Projects
 
-[![Live](https://img.shields.io/badge/Live%20Demo-667eea?style=flat-square&logo=vercel&logoColor=white)](https://my-gallery-jade.vercel.app/)
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/paht2005/My-gallery)
+<a href="https://github.com/paht2005/PythonGame_Rock-Scissors-Paper">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=PythonGame_Rock-Scissors-Paper&theme=dark" />
+</a>
+<a href="https://github.com/paht2005/some_Object-Oriented_miniProjects">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=some_Object-Oriented_miniProjects&theme=gruvbox" />
+</a>
+<a href="https://github.com/paht2005/Python-GUI_miniProjects">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=Python-GUI_miniProjects&theme=dark" />
+</a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
