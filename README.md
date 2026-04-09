@@ -62,6 +62,27 @@ Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Class of 2027 &nbsp;|&nbsp; Open to Coll
 
 <div align="center">
 
+#### 🗂️ Academic & Research Projects
+
+<a href="https://github.com/paht2005/DS200.Q21.1_LAB">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=DS200.Q21.1_LAB&theme=radical" />
+</a>
+<a href="https://github.com/paht2005/DS200.Q21-Group2-Reimplementation-and-Improvement-of-ViHateT5-for-Vietnamese-HSD-Project">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=DS200.Q21-Group2-Reimplementation-and-Improvement-of-ViHateT5-for-Vietnamese-HSD-Project&theme=radical" />
+</a>
+<a href="https://github.com/paht2005/CS406.Q11_Wildfire-Semantic-Segmentation-and-Alert-System-for-Drones-via-Deep-Learning-Project">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=paht2005&repo=CS406.Q11_Wildfire-Semantic-Segmentation-and-Alert-System-for-Drones-via-Deep-Learning-Project&theme=radical" />
+</a>
+
+</div>
+
+- **DS200.Q21.1 - Big Data Analysis Lab Workspace** — Course workspace for DS200.Q21.1 at UIT. Includes Java MapReduce, Apache Pig, Hadoop Streaming (Python), and pandas/Jupyter for big data analytics. Each lab is a self-contained subdirectory with scripts, data, and outputs. [Repo](https://github.com/paht2005/DS200.Q21.1_LAB)
+
+- **DS200.Q21 - Reimplementation & Improvement of ViHateT5 for Vietnamese HSD** — Group project for DS200.Q21. Covers reimplementation and extension of ViHateT5 (ACL 2024), including continual pre-training, multi-task fine-tuning, auto-labeling pipeline, and benchmarking on Vietnamese hate speech datasets. [Repo](https://github.com/paht2005/DS200.Q21-Group2-Reimplementation-and-Improvement-of-ViHateT5-for-Vietnamese-HSD-Project)
+
+- **CS406.Q11 - Wildfire Semantic Segmentation & Alert System for UAVs** — Deep learning system for wildfire detection from drone imagery (U-Net, ResNet, Gradio). Includes temporal consistency, alert logic, and geospatial localization. Developed for CS406.Q11 at UIT. [Repo](https://github.com/paht2005/CS406.Q11_Wildfire-Semantic-Segmentation-and-Alert-System-for-Drones-via-Deep-Learning-Project)
+
+
 #### 🧪 NLP & Explainable AI
 
 <a href="https://github.com/paht2005/IE403.Q11_Hate-Speech-Detection-and-Highlighting-for-Vietnamese-Project">
