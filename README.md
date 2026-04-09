@@ -35,8 +35,7 @@ Beyond the codebase, I champion community empowerment - mentoring 30+ aspiring d
   Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Class of 2027 &nbsp;|&nbsp; Open to Collaboration
 </p>
 
-<!-- Section divider for clarity -->
-<hr/>
+
 
 ---
 
@@ -55,8 +54,6 @@ Beyond the codebase, I champion community empowerment - mentoring 30+ aspiring d
 
 </div>
 
-<!-- Section divider for clarity -->
-<hr/>
 
 
 ---
