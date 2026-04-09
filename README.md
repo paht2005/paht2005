@@ -189,8 +189,7 @@ Beyond the codebase, I champion community empowerment - mentoring 30+ aspiring d
 
 </div>
 
-<!-- Section divider for clarity -->
-<hr/>
+
 
 ---
 
@@ -344,8 +343,7 @@ I write about AI, data science, and career growth on my [portfolio blog](https:/
 Short-term  →  Apply advanced analytics & ML to solve real-world problems
 Long-term   →  Lead data-driven teams building impactful AI solutions
 Always      →  Give back through mentoring, volunteering & community building
-<!-- Section divider for clarity -->
-<hr/>
+
 ```
 
 ---
