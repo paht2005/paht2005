@@ -99,6 +99,8 @@ Beyond the codebase, I champion community empowerment - mentoring 30+ aspiring d
 - **CS406.Q11 - Wildfire Semantic Segmentation & Alert System for UAVs** — Deep learning system for wildfire detection from drone imagery (U-Net, ResNet, Gradio). Includes temporal consistency, alert logic, and geospatial localization. Developed for CS406.Q11 at UIT. [Repo](https://github.com/paht2005/CS406.Q11_Wildfire-Semantic-Segmentation-and-Alert-System-for-Drones-via-Deep-Learning-Project)
 
 
+<div align="center">
+  
 #### 🧪 NLP & Explainable AI
 
 <a href="https://github.com/paht2005/IE403.Q11_Hate-Speech-Detection-and-Highlighting-for-Vietnamese-Project">
