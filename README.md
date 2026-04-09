@@ -15,7 +15,7 @@
 
 > *"Everything is a win when the goal is experience."*
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+not+the+only+dreamer" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+not+the+only+dreamer" alt="Typing SVG" />
 
 </div>
 
