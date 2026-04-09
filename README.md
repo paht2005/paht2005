@@ -359,7 +359,13 @@ Whether it's a collaboration, research opportunity, or just a conversation about
 [![LinkedIn](https://img.shields.io/badge/ncp2005-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ncp2005/)
 [![Portfolio](https://img.shields.io/badge/nguyen--cong--phat--portfolio.vercel.app-667eea?style=flat-square&logo=vercel&logoColor=white)](https://nguyen-cong-phat-portfolio.vercel.app/)
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=paht2005&color=70a5fd&style=for-the-badge)
+
+
 <br/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
 
