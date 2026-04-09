@@ -21,7 +21,7 @@
 <!-- Section divider for clarity -->
 <hr/>
 
----
+
 
 <!-- About Me section: centered heading for better layout -->
 <h2 align="center">🧠 About Me</h2>
