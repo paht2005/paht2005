@@ -1,3 +1,4 @@
+<!-- Contact section: centered, single row of badges, short intro -->
 <div align="center">
 
 <!-- HEADER BANNER -->
@@ -14,21 +15,33 @@
 
 > *"Everything is a win when the goal is experience."*
 
+
 </div>
+
+<!-- Section divider for clarity -->
+<hr/>
 
 ---
 
-## 🧠 About Me
+<!-- About Me section: centered heading for better layout -->
+<h2 align="center">🧠 About Me</h2>
 
 Driven Computer Science undergraduate at **UIT - VNU-HCM** with a deep passion for **Data Science**, **NLP**, and **AI-powered analytics**. I thrive at the intersection of rigorous technical research and real-world impact - architecting ML pipelines, fine-tuning large language models, and translating complex data into actionable strategies.
 
+
 Beyond the codebase, I champion community empowerment - mentoring 30+ aspiring data professionals, volunteering extensively across educational and charity initiatives, and leading class operations for 50+ students. Currently serving as **AI Engineer Intern at KMS Technology** while pursuing multiple research and community-driven projects.
 
-Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Class of 2027 &nbsp;|&nbsp; Open to Collaboration
+<p align="center">
+  Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Class of 2027 &nbsp;|&nbsp; Open to Collaboration
+</p>
+
+<!-- Section divider for clarity -->
+<hr/>
 
 ---
 
-## 📊 GitHub Stats
+<!-- GitHub Stats section: centered heading for better layout -->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -39,12 +52,17 @@ Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Class of 2027 &nbsp;|&nbsp; Open to Coll
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paht2005&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=764BA2&currStreakLabel=667EEA&sideLabels=C9D1D9&dates=555555)](https://git.io/streak-stats)
 
+
 </div>
+
+<!-- Section divider for clarity -->
+<hr/>
 
 
 ---
 
-## 💼 Professional Experience
+<!-- Professional Experience section: centered heading for better layout -->
+<h2 align="center">💼 Professional Experience</h2>
 
 | Role | Organization | Duration | Highlights |
 |------|-------------|----------|------------|
@@ -56,7 +74,8 @@ Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Class of 2027 &nbsp;|&nbsp; Open to Coll
 
 ---
 
-## 🚀 Featured Projects
+<!-- Featured Projects section: centered heading for better layout -->
+<h2 align="center">🚀 Featured Projects</h2>
 
 > Highlights from my portfolio — spanning NLP, Computer Vision, GenAI, Data Analytics, and more. See the full list on my [portfolio site](https://nguyen-cong-phat-portfolio.vercel.app/#projects).
 
@@ -171,9 +190,13 @@ Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Class of 2027 &nbsp;|&nbsp; Open to Coll
 
 </div>
 
+<!-- Section divider for clarity -->
+<hr/>
+
 ---
 
-## 🛠️ Tech Stack
+<!-- Tech Stack section: centered heading for better layout -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
@@ -216,7 +239,8 @@ Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Class of 2027 &nbsp;|&nbsp; Open to Coll
 
 ---
 
-## 📜 Certifications
+<!-- Certifications section: centered heading for better layout -->
+<h2 align="center">📜 Certifications</h2>
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
@@ -231,7 +255,8 @@ Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Class of 2027 &nbsp;|&nbsp; Open to Coll
 
 ---
 
-## 🏆 Honors & Awards
+<!-- Honors & Awards section: centered heading for better layout -->
+<h2 align="center">🏆 Honors & Awards</h2>
 
 <details>
 <summary><b>2026 — Scholarships & Recognition (click to expand)</b></summary>
@@ -284,7 +309,8 @@ Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Class of 2027 &nbsp;|&nbsp; Open to Coll
 
 ---
 
-## 🌍 Community & Leadership
+<!-- Community & Leadership section: centered heading for better layout -->
+<h2 align="center">🌍 Community & Leadership</h2>
 
 - **Class Monitor** for 50+ CS students at UIT — coordinating academic operations and faculty-student liaison since 2023
 - **Three-time Blood Donor** — "One Heartbeat – Connecting Lives" campaigns (2024–2026)
@@ -296,7 +322,8 @@ Ho Chi Minh City, Vietnam &nbsp;|&nbsp; Class of 2027 &nbsp;|&nbsp; Open to Coll
 
 ---
 
-## ✍️ Blog & Insights
+<!-- Blog & Insights section: centered heading for better layout -->
+<h2 align="center">✍️ Blog & Insights</h2>
 
 I write about AI, data science, and career growth on my [portfolio blog](https://nguyen-cong-phat-portfolio.vercel.app/blog.html):
 
@@ -311,12 +338,15 @@ I write about AI, data science, and career growth on my [portfolio blog](https:/
 
 ---
 
-## 🎯 What Drives Me
+<!-- What Drives Me section: centered heading for better layout -->
+<h2 align="center">🎯 What Drives Me</h2>
 
 ```
 Short-term  →  Apply advanced analytics & ML to solve real-world problems
 Long-term   →  Lead data-driven teams building impactful AI solutions
 Always      →  Give back through mentoring, volunteering & community building
+<!-- Section divider for clarity -->
+<hr/>
 ```
 
 ---
