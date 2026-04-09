@@ -11,21 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:congphatnguyen.work@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/phat.nguyencong.2005/)
 
-<br/>
-
-> *"Everything is a win when the goal is experience."*
-
-
-</div>
-
-<div align="center">
-
-# 👋 Hi, I'm Phat
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Making+progress+not+excuses" alt="Typing SVG" />
-
-</div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%22Everything+is+a+win+when+the+goal+is+experience.%22" alt="Typing SVG" /></a>
 <!-- Section divider for clarity -->
 <hr/>
 
