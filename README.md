@@ -47,12 +47,12 @@ Beyond the codebase, I champion community empowerment - mentoring 30+ aspiring d
   <!-- Row 1 -->
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=paht2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&ring_color=667eea" 
-    width="48%" 
+    width="20%" 
   />
 
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paht2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9" 
-    width="48%" 
+    width="20%" 
   />
 
   <br/><br/>
