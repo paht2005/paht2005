@@ -39,27 +39,29 @@ Beyond the codebase, I champion community empowerment - mentoring 30+ aspiring d
 
 
 ---
-
-<!-- GitHub Stats section: centered heading for better layout -->
+<!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  
-<p align="center">
+
+  <!-- Row 1 -->
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=paht2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&ring_color=667eea" 
-    width="49%" 
+    width="48%" 
   />
 
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paht2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9" 
-    width="49%" 
+    width="48%" 
   />
-</p>
 
+  <br/><br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paht2005&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=764BA2&currStreakLabel=667EEA&sideLabels=C9D1D9&dates=555555)](https://git.io/streak-stats)
-
+  <!-- Row 2 -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=paht2005&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=764BA2&currStreakLabel=667EEA&sideLabels=C9D1D9&dates=555555" 
+    width="70%" 
+  />
 
 </div>
 
